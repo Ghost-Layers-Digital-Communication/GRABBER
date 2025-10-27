@@ -1,4 +1,6 @@
 # GRABBER
-this is a short script that will move a payload from a linux machine to a windows machine via ssh using paramiko
+there are two scripts here.
 
-place secret.txt on the desktop of your linux machine or edit file path accordingly
+one pulls a file of choice from a windows machine to a linux machine via ssh and paramiko. pi_grabber_master.py
+
+one pulls a file of choice from a linux machine to a windows machine via ssh and paramiko. win_grabber_master.py
